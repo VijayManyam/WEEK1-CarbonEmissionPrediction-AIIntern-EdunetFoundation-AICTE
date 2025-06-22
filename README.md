@@ -1,0 +1,2 @@
+# WEEK1-CarbonEmissionPrediction-AIIntern-EdunetFoundation-AICTE
+✅ - Week 1 Code Modifications Summary 1.Replaced broken online dataset with a working local CSV file. 2.Removed non-numeric column (country) to fix model training error. 3.Added preprocessing step to drop missing values. 4.Evaluated model using Mean Squared Error and R² Score. 5.Plotted Actual vs Predicted CO₂ emissions for better understanding.
